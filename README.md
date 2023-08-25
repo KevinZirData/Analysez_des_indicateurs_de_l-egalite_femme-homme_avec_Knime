@@ -37,3 +37,6 @@ DRH
 
 
 Ça y est, vous avez toutes les informations. À vous de jouer !
+
+
+![image](https://github.com/KevinZirData/OP_Projet_7_Analysez_des_indicateurs_de_l-egalite_femme-homme_avec_Knime/assets/142809013/926f9466-f027-43da-a8a7-45c3b1964b77)
