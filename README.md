@@ -1,5 +1,5 @@
-# OP_Projet_7_Analysez_des_indicateurs_de_l-egalite_femme-homme_avec_Knime
-Projet VII : Analysez des indicateurs de l'égalité femme-homme avec Knime
+# OP_Projet_7_Analysez_des_indicateurs_de_l-egalite_Femme-Homme_avec_Knime
+Projet VII : Analysez des indicateurs de l'égalité Femme-Homme avec Knime
 
 
 Vous êtes data analyst dans un cabinet de consultant spécialisé dans la transformation digitale des entreprises. Le cabinet compte déjà plus de 150 salariés et est en plein développement. Dans ce contexte économique, le recrutement de consultants expérimentés devient un véritable enjeu stratégique.
